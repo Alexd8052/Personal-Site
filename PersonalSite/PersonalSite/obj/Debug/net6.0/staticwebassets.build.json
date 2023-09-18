@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "qAKW8Kc7OSka2N8n7cLWYZQXJZHNKQRBDVTFFSAszjA=",
+  "Source": "PersonalSite",
+  "BasePath": "_content/PersonalSite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PersonalSite\\wwwroot",
+      "Source": "PersonalSite",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PersonalSite.styles.css",
+      "SourceId": "PersonalSite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "PersonalSite.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PersonalSite.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSite.bundle.scp.css",
+      "SourceId": "PersonalSite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "PersonalSite.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSite.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    }
+  ]
+}

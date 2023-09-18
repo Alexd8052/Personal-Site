@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PersonalSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PersonalSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PersonalSite.props",
+      "PackagePath": "build\\PersonalSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PersonalSite.props",
+      "PackagePath": "buildMultiTargeting\\PersonalSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PersonalSite.props",
+      "PackagePath": "buildTransitive\\PersonalSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

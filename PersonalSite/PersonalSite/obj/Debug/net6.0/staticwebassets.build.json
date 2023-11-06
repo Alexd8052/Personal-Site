@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qAKW8Kc7OSka2N8n7cLWYZQXJZHNKQRBDVTFFSAszjA=",
+  "Hash": "ZJ+2eCcyXUbMh9nop58ls/FEQyMnsGQis240XqwuwSI=",
   "Source": "PersonalSite",
   "BasePath": "_content/PersonalSite",
   "Mode": "Default",
@@ -66,6 +66,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\IMG_6214.jpg",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/IMG_6214.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\IMG_6214.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Screenshot 2023-11-06 130504.png",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/Screenshot 2023-11-06 130504.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2023-11-06 130504.png"
     }
   ]
 }

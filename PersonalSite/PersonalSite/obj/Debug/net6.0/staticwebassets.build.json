@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZJ+2eCcyXUbMh9nop58ls/FEQyMnsGQis240XqwuwSI=",
+  "Hash": "nDEkiE9ujB+NBKCrdt/owjm1qGuK+bdc8sieexjCkP8=",
   "Source": "PersonalSite",
   "BasePath": "_content/PersonalSite",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSite.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\pdf\\Resume.pdf",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "assets/pdf/Resume.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\pdf\\Resume.pdf"
     },
     {
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",

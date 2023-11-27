@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\PersonalSite.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\pdf\\Resume.pdf",
+      "PackagePath": "staticwebassets\\assets\\pdf\\Resume.pdf"
+    },
+    {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },

@@ -1,63 +1,80 @@
-﻿@model PersonalSite.Models.ContactViewModel
-
-@{
-    ViewData["Title"] = "Contact";
+﻿@{
+    ViewData["Title"] = "Contact Form";
 }
+@model PersonalSite.Models.ContactViewModel
 
 <!-- ======= Contact Section ======= -->
-<section id="contact" class="contact">
+<section class="contact" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
     <div class="container">
 
         <div class="section-title">
-            <h2>Contact</h2>
+            <h2>@ViewData["Title"]</h2>
         </div>
 
-        <div class="row" data-aos="fade-in">
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="row">
+                <p style="color: red; font-style: italic;">
+                    @Html.Raw(ViewBag.ErrorMessage)
+                </p>
+            </div>
+        }
 
-            <div class="col-lg-5 d-flex align-items-stretch">
-                <div class="info">
-                    <div class="address">
-                        <i class="bi bi-geo-alt"></i>
-                        <h4>Location:</h4>
-                        <p>Kansas City, MO</p>
+        <div class="row">
+
+            <div class="col-lg-6">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="info-box">
+                            <i class="bx bx-map"></i>
+                            <h3>Location</h3>
+                            <p>Kansas City, MO</p>
+                        </div>
                     </div>
-                    <div class="email">
-                        <i class="bi bi-envelope"></i>
-                        <h4>Email:</h4>
-                        <p>alexd8052@gmail.com</p>
+                    <div class="col-md-6">
+                        <div class="info-box">
+                            <i class="bx bx-envelope"></i>
+                            <h3>Email</h3>
+                            <p>alexd8052@outlook.com</p>
+                        </div>
                     </div>
                 </div>
 
             </div>
 
-            <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+            <div class="col-lg-6">
+
                 <form asp-action="Contact" class="php-email-form">
+
                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                     <div class="form-group">
                         <input asp-for="Name" class="form-control" placeholder="Name" />
                         <span asp-validation-for="Name" class="text-danger"></span>
                     </div>
+
                     <div class="form-group mt-3">
                         <input asp-for="Email" class="form-control" placeholder="Email" />
                         <span asp-validation-for="Email" class="text-danger"></span>
                     </div>
+
                     <div class="form-group mt-3">
                         <input asp-for="Subject" class="form-control" placeholder="Subject" />
                         <span asp-validation-for="Subject" class="text-danger"></span>
                     </div>
+
                     <div class="form-group mt-3">
                         <textarea asp-for="Message" class="form-control" placeholder="Message"></textarea>
                         <span asp-validation-for="Message" class="text-danger"></span>
                     </div>
+
                     <div class="form-group mt-4 text-center">
                         <input type="submit" value="Send message" class="btn btn-primary" />
                     </div>
-                </form>
-            </div>
-            <div class="container">
-                <a href="@Url.Action("Index", "Home")" class="btn btn-outline-primary">Back to Site</a>
-            </div>
 
+                </form>
+
+            </div>
 
         </div>
 

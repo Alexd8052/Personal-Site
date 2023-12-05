@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using MimeKit;
 using MailKit.Net.Smtp;
+using Microsoft.Extensions.Configuration;
 
 namespace PersonalSite.Controllers
 {

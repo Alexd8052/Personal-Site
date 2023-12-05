@@ -481,12 +481,52 @@
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\IMG_6214.jpg",
-      "PackagePath": "staticwebassets\\images\\IMG_6214.jpg"
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Alicia.jpg",
+      "PackagePath": "staticwebassets\\images\\Alicia.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Screenshot 2023-11-06 130504.png",
-      "PackagePath": "staticwebassets\\images\\Screenshot 2023-11-06 130504.png"
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Gene.jpg",
+      "PackagePath": "staticwebassets\\images\\Gene.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\SAT.png",
+      "PackagePath": "staticwebassets\\images\\SAT.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\aidan.jpg",
+      "PackagePath": "staticwebassets\\images\\aidan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\chris.jpg",
+      "PackagePath": "staticwebassets\\images\\chris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\dungeon.png",
+      "PackagePath": "staticwebassets\\images\\dungeon.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\me.jpg",
+      "PackagePath": "staticwebassets\\images\\me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\paul_profile.jpg",
+      "PackagePath": "staticwebassets\\images\\paul_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\storefront.png",
+      "PackagePath": "staticwebassets\\images\\storefront.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\todoapi.png",
+      "PackagePath": "staticwebassets\\images\\todoapi.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\zoe.jpeg",
+      "PackagePath": "staticwebassets\\images\\zoe.jpeg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PersonalSite.Microsoft.AspNetCore.StaticWebAssets.props",

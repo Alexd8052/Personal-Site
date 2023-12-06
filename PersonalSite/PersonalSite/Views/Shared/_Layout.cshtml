@@ -45,22 +45,22 @@
   <header id="header">
     <div class="d-flex flex-column">
       <div class="profile">
-        <img src="assets/img/guitarcenter.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Alex Davenport</a></h1>
+        <img src="./assets/img/guitarcenter.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="@Url.Action("Index", "Home")">Alex Davenport</a></h1>
         <div class="social-links mt-3 text-center">
         <a href="http://www.linkedin.com/in/alex-davenport-4b9445286" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://github.com/Alexd8052" target="_blank" class="github"><i class="bi bi-github"></i></a>
         </div>
       </div>
 
-      <nav id="navbar" class="nav-menu navbar ">
+      <nav id="navbar" class="nav-menu navbar">
         <ul>
           <li><a href="@Url.Action("Index", "Home")" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
-          <li><a href="#skills" class="nav-link scrollto"><i class="bi bi-card-list"></i> <span>Skills</span></a></li>
-          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
-          <li><a href="#links" class="nav-link scrollto"><i class="bi bi-link-45deg"></i> <span>Classmates</span></a></li>
+          <li><a href="~/#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="~/#skills" class="nav-link scrollto"><i class="bi bi-card-list"></i> <span>Skills</span></a></li>
+          <li><a href="~/#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="~/#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+          <li><a href="~/#links" class="nav-link scrollto"><i class="bi bi-link-45deg"></i> <span>Classmates</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -70,7 +70,7 @@
 
   <main id="main">
 
-  @RenderBody()
+    @RenderBody()
 
   </main><!-- End #main -->
 
@@ -99,7 +99,6 @@
   <script src="~/assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="~/assets/vendor/typed.js/typed.umd.js"></script>
   <script src="~/assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="~/assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
   <script src="~/assets/js/main.js"></script>

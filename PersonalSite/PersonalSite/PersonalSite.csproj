@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\assets\NewFolder1\**" />
+    <Compile Remove="wwwroot\assets\NewFolder\**" />
+    <Content Remove="wwwroot\assets\NewFolder1\**" />
+    <Content Remove="wwwroot\assets\NewFolder\**" />
+    <EmbeddedResource Remove="wwwroot\assets\NewFolder1\**" />
+    <EmbeddedResource Remove="wwwroot\assets\NewFolder\**" />
+    <None Remove="wwwroot\assets\NewFolder1\**" />
+    <None Remove="wwwroot\assets\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="wwwroot\assets\css\style.css" />
     <Content Remove="wwwroot\assets\img\apple-touch-icon.png" />
     <Content Remove="wwwroot\assets\img\favicon.png" />
@@ -119,9 +130,6 @@
     <Content Remove="wwwroot\assets\vendor\waypoints\noframework.waypoints.js" />
     <Content Remove="wwwroot\forms\contact.php" />
     <Content Remove="wwwroot\forms\Readme.txt" />
-    <Content Remove="wwwroot\index.html" />
-    <Content Remove="wwwroot\inner-page.html" />
-    <Content Remove="wwwroot\portfolio-details.html" />
   </ItemGroup>
 
   <ItemGroup>
@@ -237,9 +245,6 @@
     <None Include="wwwroot\assets\vendor\waypoints\noframework.waypoints.js" />
     <None Include="wwwroot\forms\contact.php" />
     <None Include="wwwroot\forms\Readme.txt" />
-    <None Include="wwwroot\index.html" />
-    <None Include="wwwroot\inner-page.html" />
-    <None Include="wwwroot\portfolio-details.html" />
     <None Include="wwwroot\_Archive\assets\css\style.css" />
     <None Include="wwwroot\_Archive\assets\img\apple-touch-icon.png" />
     <None Include="wwwroot\_Archive\assets\img\favicon.png" />
@@ -374,11 +379,6 @@
     <Content Update="wwwroot\assets\vendor\bootstrap-icons\bootstrap-icons.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\assets\NewFolder1\" />
-    <Folder Include="wwwroot\assets\NewFolder\" />
   </ItemGroup>
 
 </Project>

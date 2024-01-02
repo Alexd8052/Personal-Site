@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RLAocWYbk/t3BQ1ocxIjDtCENl5w1ZNTBmrboSsvbf8=",
+  "Hash": "SpejXlP+PJKHca4vcu9F3PcqBxmzdoMvzGXpt5Buabw=",
   "Source": "PersonalSite",
   "BasePath": "_content/PersonalSite",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "wwwroot\\images\\Alicia.jpg"
     },
     {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\apple-touch-icon.png",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/apple-touch-icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\apple-touch-icon.png"
+    },
+    {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\chris.jpg",
       "SourceId": "PersonalSite",
       "SourceType": "Discovered",
@@ -85,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\images\\dungeon.png"
     },
     {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\favicon.png",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Gene.jpg",
       "SourceId": "PersonalSite",
       "SourceType": "Discovered",
@@ -102,6 +136,40 @@
       "OriginalItemSpec": "wwwroot\\images\\Gene.jpg"
     },
     {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\guitarcenter.jpg",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/guitarcenter.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\guitarcenter.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\IMG_6214.jpg",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/IMG_6214.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\IMG_6214.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\me.jpg",
       "SourceId": "PersonalSite",
       "SourceType": "Discovered",
@@ -117,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\me.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\nasa-Q1p7bh3SHj8-unsplash (2).jpg",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/nasa-Q1p7bh3SHj8-unsplash (2).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nasa-Q1p7bh3SHj8-unsplash (2).jpg"
     },
     {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\noimage.png",

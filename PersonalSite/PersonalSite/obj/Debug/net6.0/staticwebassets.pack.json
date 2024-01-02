@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\images\\Gene.jpg"
     },
     {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\IMG_6214.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_6214.jpg"
+    },
+    {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\SAT.png",
       "PackagePath": "staticwebassets\\images\\SAT.png"
     },
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\aidan.jpg",
       "PackagePath": "staticwebassets\\images\\aidan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
     },
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\chris.jpg",
@@ -25,8 +33,20 @@
       "PackagePath": "staticwebassets\\images\\dungeon.png"
     },
     {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\guitarcenter.jpg",
+      "PackagePath": "staticwebassets\\images\\guitarcenter.jpg"
+    },
+    {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\me.jpg",
       "PackagePath": "staticwebassets\\images\\me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\nasa-Q1p7bh3SHj8-unsplash (2).jpg",
+      "PackagePath": "staticwebassets\\images\\nasa-Q1p7bh3SHj8-unsplash (2).jpg"
     },
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\noimage.png",

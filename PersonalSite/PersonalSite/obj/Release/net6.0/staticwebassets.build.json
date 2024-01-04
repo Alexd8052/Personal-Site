@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XVHjIAUbt7FHOY7cL3EoeRPE3jq8IVPqPq4u6KEA9Tk=",
+  "Hash": "BftSVTe+VQ5cj/rp247g4770NWMrQmUvvGYQMAwtPGI=",
   "Source": "PersonalSite",
   "BasePath": "_content/PersonalSite",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\apple-touch-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\AS_Banner.png",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/AS_Banner.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\AS_Banner.png"
     },
     {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\chris.jpg",
@@ -287,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\todoapi.png"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\todoapp.png",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "images/todoapp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\todoapp.png"
     },
     {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\zoe.jpeg",

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\assets\\pdf\\Alex Davenport Resume IT.pdf"
     },
     {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\AS_Banner.png",
+      "PackagePath": "staticwebassets\\images\\AS_Banner.png"
+    },
+    {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Alicia.jpg",
       "PackagePath": "staticwebassets\\images\\Alicia.jpg"
     },
@@ -63,6 +67,10 @@
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\todoapi.png",
       "PackagePath": "staticwebassets\\images\\todoapi.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\todoapp.png",
+      "PackagePath": "staticwebassets\\images\\todoapp.png"
     },
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\zoe.jpeg",

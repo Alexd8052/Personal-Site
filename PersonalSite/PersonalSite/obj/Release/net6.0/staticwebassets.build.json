@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SpejXlP+PJKHca4vcu9F3PcqBxmzdoMvzGXpt5Buabw=",
+  "Hash": "R5eXPK6CyMZZoQ3TemjzL2O+OrEo0VOxdMz0yFf9skk=",
   "Source": "PersonalSite",
   "BasePath": "_content/PersonalSite",
   "Mode": "Default",
@@ -151,23 +151,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\guitarcenter.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\IMG_6214.jpg",
-      "SourceId": "PersonalSite",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
-      "BasePath": "_content/PersonalSite",
-      "RelativePath": "images/IMG_6214.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\IMG_6214.jpg"
     },
     {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\me.jpg",

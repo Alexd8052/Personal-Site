@@ -1,16 +1,16 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\pdf\\Alex Davenport Resume IT.pdf",
+      "PackagePath": "staticwebassets\\assets\\pdf\\Alex Davenport Resume IT.pdf"
+    },
+    {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Alicia.jpg",
       "PackagePath": "staticwebassets\\images\\Alicia.jpg"
     },
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Gene.jpg",
       "PackagePath": "staticwebassets\\images\\Gene.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\IMG_6214.jpg",
-      "PackagePath": "staticwebassets\\images\\IMG_6214.jpg"
     },
     {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\SAT.png",

@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\pdf\\Alex Davenport Resume IT.pdf",
+      "PackagePath": "staticwebassets\\assets\\pdf\\Alex Davenport Resume IT.pdf"
+    },
+    {
       "Id": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\Alicia.jpg",
       "PackagePath": "staticwebassets\\images\\Alicia.jpg"
     },

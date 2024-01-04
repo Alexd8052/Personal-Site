@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Student\OneDrive\Desktop\Personal Site\PersonalSite\PersonalSite\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2024-01-04T11:07:12.5552487Z;True|2024-01-01T22:04:51.2262683-06:00;True|2024-01-01T21:41:19.6138411-06:00;True|2023-12-23T22:21:41.4115432-06:00;True|2023-12-23T22:21:14.8308228-06:00;</History>
+    <History>True|2024-01-04T11:32:45.6492099Z;True|2024-01-04T05:23:44.5004398-06:00;True|2024-01-04T05:13:17.3541237-06:00;True|2024-01-04T05:07:12.5552487-06:00;True|2024-01-01T22:04:51.2262683-06:00;True|2024-01-01T21:41:19.6138411-06:00;True|2023-12-23T22:21:41.4115432-06:00;True|2023-12-23T22:21:14.8308228-06:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

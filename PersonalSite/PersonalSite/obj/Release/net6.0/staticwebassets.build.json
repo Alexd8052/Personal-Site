@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R5eXPK6CyMZZoQ3TemjzL2O+OrEo0VOxdMz0yFf9skk=",
+  "Hash": "XVHjIAUbt7FHOY7cL3EoeRPE3jq8IVPqPq4u6KEA9Tk=",
   "Source": "PersonalSite",
   "BasePath": "_content/PersonalSite",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\assets\\pdf\\Alex Davenport Resume IT.pdf",
+      "SourceId": "PersonalSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\",
+      "BasePath": "_content/PersonalSite",
+      "RelativePath": "assets/pdf/Alex Davenport Resume IT.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\pdf\\Alex Davenport Resume IT.pdf"
+    },
     {
       "Identity": "C:\\Users\\Student\\OneDrive\\Desktop\\Personal Site\\PersonalSite\\PersonalSite\\wwwroot\\images\\aidan.jpg",
       "SourceId": "PersonalSite",
